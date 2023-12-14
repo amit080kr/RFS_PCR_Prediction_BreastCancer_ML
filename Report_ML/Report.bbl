@@ -1,0 +1,52 @@
+\begin{thebibliography}{1}
+
+\bibitem{bartholomai2018lung}
+James~A Bartholomai and Hermann~B Frieboes,
+\newblock ``Lung cancer survival prediction via machine learning regression,
+  classification, and statistical techniques,''
+\newblock in {\em 2018 IEEE International Symposium on Signal Processing and
+  Information Technology (ISSPIT)}. IEEE, 2018, pp. 632--637.
+
+\bibitem{spelmen2018review}
+Vimalraj~S Spelmen and R~Porkodi,
+\newblock ``A review on handling imbalanced data,''
+\newblock in {\em 2018 international conference on current trends towards
+  converging technologies (ICCTCT)}. IEEE, 2018, pp. 1--11.
+
+\bibitem{pristyanto2018}
+Yoga Pristyanto, Irfan Pratama, and Anggit~Ferdita Nugraha,
+\newblock ``Data level approach for imbalanced class handling on educational
+  data mining multiclass classification,''
+\newblock in {\em 2018 International Conference on Information and
+  Communications Technology (ICOIACT)}, 2018, pp. 310--314.
+
+\bibitem{sukhanov2015}
+S.~Sukhanov, A.~Merentitis, C.~Debes, J.~Hahn, and A.~M. Zoubir,
+\newblock ``Bootstrap-based svm aggregation for class imbalance problems,''
+\newblock in {\em 2015 23rd European Signal Processing Conference (EUSIPCO)},
+  2015, pp. 165--169.
+
+\bibitem{geron2022hands}
+Aur{\'e}lien G{\'e}ron,
+\newblock {\em Hands-on machine learning with Scikit-Learn, Keras, and
+  TensorFlow},
+\newblock " O'Reilly Media, Inc.", 2022.
+
+\bibitem{abokadr2023imbalanced}
+Somiya Abokadr, Azreen Azman, Hazlina Hamdan, and Nurul Amelina,
+\newblock ``Handling imbalanced data for improved classification performance:
+  Methods and challenges,''
+\newblock in {\em 2023 3rd International Conference on Emerging Smart
+  Technologies and Applications (eSmarTA)}, 2023, pp. 1--8.
+
+\bibitem{Chen_2016}
+Tianqi Chen and Carlos Guestrin,
+\newblock ``Xgboost: A scalable tree boosting system,''
+\newblock in {\em Proceedings of the 22nd ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}. Aug. 2016, KDD ’16, ACM.
+
+\bibitem{vemuri2020hundred}
+Andriy Burkov,
+\newblock ``The hundred-page machine learning book,'' 2020.
+
+\end{thebibliography}
